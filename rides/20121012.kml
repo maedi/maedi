@@ -7,13 +7,13 @@
 </description>
 <Style id="currentPathStyle">
 <LineStyle>
-<color>aaff0000</color>
+<color>aacc9000</color>
 <width>4</width>
 </LineStyle>
 </Style>
 <Style id="officialPathStyle">
 <LineStyle>
-<color>888d1baa</color>
+<color>aacc9000</color>
 <width>4</width>
 </LineStyle>
 </Style>
